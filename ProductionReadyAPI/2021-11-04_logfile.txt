@@ -1,0 +1,8 @@
+2021-11-04 08:24:15.7276 INFO Here is info message
+2021-11-04 08:24:16.7063 DEBUG Here is debug message
+2021-11-04 08:24:16.8779 WARN Here is warn message
+2021-11-04 08:24:16.8811 ERROR Here is Error message
+2021-11-04 08:29:12.7190 INFO Here is info message
+2021-11-04 08:29:12.7865 DEBUG Here is debug message
+2021-11-04 08:29:12.7865 WARN Here is warn message
+2021-11-04 08:29:12.8049 ERROR Here is Error message
